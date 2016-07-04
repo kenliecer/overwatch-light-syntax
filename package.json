@@ -1,0 +1,17 @@
+{
+  "name": "overwatch-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A light Overwatch syntax theme.",
+  "keywords": [
+    "light",
+    "orange",
+    "overwatch",
+    "syntax"
+  ],
+  "repository": "https://github.com/nektwar/overwatch-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
