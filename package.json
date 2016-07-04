@@ -1,7 +1,7 @@
 {
-  "name": "overwatch-dark-syntax",
+  "name": "overwatch-light-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.1.0",
   "description": "A light Overwatch syntax theme.",
   "keywords": [
     "light",
