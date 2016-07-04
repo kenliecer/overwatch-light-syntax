@@ -1,4 +1,4 @@
-## Overwatch Light Syntax Theme
+## Overwatch Light Syntax Theme (In progress)
 
 ![overwatch-dark-syntax](https://raw.githubusercontent.com/nektwar/overwatch-light-syntax/master/screenshot.png)
 
