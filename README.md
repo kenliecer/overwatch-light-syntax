@@ -4,7 +4,7 @@
 
 A Syntax Theme forked from [SebastianSzturo](https://github.com/SebastianSzturo/firewatch-syntax) that was already inspired by [Firewatch](http://www.firewatchgame.com/).
 
-I made a [dark version](https://github.com/nektwar/overwatch-dark-syntax) if you want to install it.
+I made a [dark version](https://atom.io/themes/overwatch-dark-syntax) if you want to install it.
 
 ## Install
 
